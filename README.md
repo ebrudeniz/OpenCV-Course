@@ -18,4 +18,5 @@ The contents are structured following the bootcamp modules:
 
 ## 📂 Repository Structure
 
-├── 01-Basics/                # Image I/O and manipulation
+├── basics / basics_1                # Image I/O and manipulation
+├── image_annotation                 # Drawing tools
